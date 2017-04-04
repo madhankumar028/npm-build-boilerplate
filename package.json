@@ -1,7 +1,7 @@
 {
-  "name": "npm-build-styleguide",
+  "name": "npm-build-boilerplate",
   "version": "1.0.0",
-  "description": "styleguide or boilerplate for npm as build tool",
+  "description": "Boilerplate for npm as build tool",
   "main": "index.js",
   "scripts": {
     "start": "concurrently -k \"npm run dev\" \"npm run watch-css\"",
@@ -24,16 +24,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madhankumar028/npm-build-styleguide.git"
+    "url": "git+https://github.com/madhankumar028/npm-build-boilerplate.git"
   },
   "keywords": [
-    "npm-build-styleguide",
+    "npm-build-boilerplate",
     "buildcommands"
   ],
   "author": "MadhankumarJ <madhankumar028@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/madhankumar028/npm-build-styleguide/issues"
+    "url": "https://github.com/madhankumar028/npm-build-boilerplate/issues"
   },
-  "homepage": "https://github.com/madhankumar028/npm-build-styleguide#readme"
+  "homepage": "https://github.com/madhankumar028/npm-build-boilerplate#readme"
 }
