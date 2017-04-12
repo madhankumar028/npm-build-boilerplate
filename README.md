@@ -1,9 +1,12 @@
-# npm-build-styleguide
+# npm-build-boilerplate
 
-Basic style guide (biolerplate). You can use this build tool and concentrate on your coding part. 
-It is hard to build a software without a build tool.
 
-I have written an article called **npm as build tool**. You can view it for further understanding.
+## Disclaimer
+Do you think Gulp has killed Grunt. Definetly no, npm has killed both of them.
+This boilerplate is all about using npm as build commands.
+
+## Links
+I have written an article called **[npm as build tool]()**. You can view it for further understanding, but not now the article is submitted for review.
 
 ## Contribution
 If you find anything to improve this boilerplate, you can feel free to contribute. Give me pull request, I am ready to accept it.
