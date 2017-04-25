@@ -1,5 +1,7 @@
 # npm-build-boilerplate
 
+Download via npm
+`npm i npm-build-boilerplate`
 
 ## Disclaimer
 Do you think Gulp has killed Grunt. Definetly no, npm has killed both of them.
