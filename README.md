@@ -1,4 +1,7 @@
 # npm-build-boilerplate
+![TotalDownloads](https://img.shields.io/npm/dt/npm-build-boilerplate.svg)
+![NPM Version](https://img.shields.io/npm/v/npm-build-boilerplate.svg)
+![License](https://img.shields.io/npm/l/npm-build-boilerplate.svg)
 
 Download via npm
 `npm i npm-build-boilerplate`
